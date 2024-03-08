@@ -11,3 +11,4 @@ The idea is to create an application using a microservices architecture and comm
 ## Microservices
 
 - [Monsters Microservice Repository](https://github.com/crisgarlez/portfolio-monsters-ms)
+- [Battles Microservice Repository](https://github.com/crisgarlez/portfolio-battles-ms)
